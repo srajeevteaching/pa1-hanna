@@ -1,6 +1,6 @@
+https://github.com/Intel76/pythonProject3/blob/master/main.py
 Programming Assignment 1
 Due: Wed Sep 22, 11:59 pm
-
 Problem
 Write a Python program that asks the user for the dimensions (length, width, and height) of a room in feet, computes the total area of the four walls and ceiling, and determines the amount of primer and paint in gallons necessary to cover them (but not the floor!) The program should output the total area to be painted (in square feet), as well as the amount of primer and paint (in gallons) needed. Note: assume one gallon of primer will coat 200 square feet and one gallon of paint will cover 350 square feet.
 
